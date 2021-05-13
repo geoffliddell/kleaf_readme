@@ -4,6 +4,8 @@
 
 ## Contents
 
+1. Testing using the Laplacian to solve resistor mesh toy problems
+2. Description of applying damage to the k_leaf model using RSpice
 - Overall process
 - Choosing damage locations
 - Description of how edges were removed network
